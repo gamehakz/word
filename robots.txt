@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Sitemap: https://hakzthatwork.netlify.app/sitemap_index.xml
+Sitemap: https://hakzthatwork.netlify.app/post-sitemap1.xml
+Sitemap: https://hakzthatwork.netlify.app/post-sitemap2.xml
+Sitemap: https://hakzthatwork.netlify.app/page-sitemap.xml
